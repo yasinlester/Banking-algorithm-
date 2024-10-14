@@ -32,12 +32,10 @@ Usage
 To compile and run the program:
 
 Compile the source code:
-Copyg++ -o bankers_algorithm main.cpp
-Or, if you have a Makefile:
-Copymake
+g++ -o bankers_algorithm main.cpp
 
 Run the program:
-Copy./bankers_algorithm
+./bankers_algorithm
 
 Follow the on-screen prompts to input the number of processes, resources, and their respective values.
 
