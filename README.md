@@ -22,7 +22,7 @@ Make (optional, for easier compilation)
 Installation
 
 Clone the repository:
-Copygit clone https://github.com/your-username/bankers-algorithm-simulation.git
+git clone https://github.com/your-username/bankers-algorithm-simulation.git
 
 Navigate to the project directory:
 Copycd bankers-algorithm-simulation
@@ -32,10 +32,12 @@ Usage
 To compile and run the program:
 
 Compile the source code:
-g++ -o bankers_algorithm main.cpp
+g++ Bank.cpp
 
 Run the program:
-./bankers_algorithm
+./banK
+or
+./a.exe
 
 Follow the on-screen prompts to input the number of processes, resources, and their respective values.
 
