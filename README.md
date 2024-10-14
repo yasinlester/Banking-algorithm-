@@ -22,7 +22,8 @@ Make (optional, for easier compilation)
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/bankers-algorithm-simulation.git
+git clone https://github.com/yasinlester/Banking-algorithm-.git
+
 
 Navigate to the project directory:
 Copycd bankers-algorithm-simulation
